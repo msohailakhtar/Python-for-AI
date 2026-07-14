@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Chapter Overview
+# Chapter Overview
 
 Python is one of the world's most popular programming languages because of its simplicity, readability, and powerful ecosystem.
 
@@ -12,7 +12,7 @@ This chapter introduces the core concepts every Python programmer must master be
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 After completing this chapter, you will be able to:
 
@@ -30,7 +30,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-# 📚 Lessons
+# Lessons
 
 | Lesson | Topic | Status |
 |---------|-------|--------|
@@ -44,7 +44,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-# 💻 Practice Files
+# Practice Files
 
 Each lesson includes Python practice programs designed to reinforce the concepts through hands-on coding.
 
@@ -58,7 +58,7 @@ Examples include:
 
 ---
 
-# 🚀 Mini Projects
+# Mini Projects
 
 By the end of this chapter you will build projects such as:
 
@@ -69,7 +69,7 @@ By the end of this chapter you will build projects such as:
 
 ---
 
-# 📝 Assignments
+# Assignments
 
 Each lesson contains assignments ranging from beginner to intermediate difficulty.
 
@@ -77,7 +77,7 @@ The assignments are designed to improve problem-solving skills.
 
 ---
 
-# 🎓 Interview Preparation
+# Interview Preparation
 
 Each notebook includes:
 
@@ -88,7 +88,7 @@ Each notebook includes:
 
 ---
 
-# 🤖 Why Python for AI?
+# Why Python for AI?
 
 Python is widely used in:
 
@@ -129,7 +129,7 @@ Chapter-01-Python-Fundamentals/
 
 ---
 
-# ⏱ Estimated Time
+# Estimated Time
 
 Approximately **12–15 hours** of study and practice.
 
