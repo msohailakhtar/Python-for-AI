@@ -1,10 +1,10 @@
-# 🚀 Python for AI
+# Python for AI
 
 > A complete, project-based Python course designed for Artificial Intelligence, Machine Learning, Data Science, and Research.
 
 ---
 
-## 📖 About This Repository
+## About This Repository
 
 Welcome to **Python-for-AI**.
 
@@ -16,7 +16,7 @@ Whether you are a student, educator, researcher, or aspiring AI engineer, this r
 
 ---
 
-# 🎯 Course Objectives
+# Course Objectives
 
 By completing this repository, you will be able to:
 
@@ -33,7 +33,7 @@ By completing this repository, you will be able to:
 
 ---
 
-# 🗺 Repository Structure
+# Repository Structure
 
 ```
 Python-for-AI/
@@ -54,7 +54,7 @@ Python-for-AI/
 
 ---
 
-# 📚 Learning Roadmap
+# Learning Roadmap
 
 ## Phase 1 — Python Foundations
 
@@ -102,7 +102,7 @@ Python-for-AI/
 
 ---
 
-# 💻 Repository Features
+# Repository Features
 
 - Detailed Jupyter Notebooks
 - Python Practice Files
@@ -115,7 +115,7 @@ Python-for-AI/
 
 ---
 
-# 🎓 Who Is This Repository For?
+# Who Is This Repository For?
 
 - University Students
 - AI Beginners
@@ -126,7 +126,7 @@ Python-for-AI/
 
 ---
 
-# 👨‍🏫 Author
+# Author
 
 **Muhammad Sohail Akhtar**
 
